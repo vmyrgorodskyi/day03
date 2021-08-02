@@ -279,3 +279,5 @@ if side_choice == "left":
         print("Your died")
 else:
     print("Your died")
+
+#the last line
